@@ -25,12 +25,12 @@ A High Performance MultiProtocol Java Framework
     Rest and Static web services framework
 ### 4. Thunderbolt Data (jdbc/mongo/redis)
     Data connectors , repositories on SQL over JDBC / NoSQL over Mongo or Redis
-### 5. Thunderbolt Eventbus(Stateless IOT Broker over mqtt/coap/websockets)
-    Stateless enhanced queue based broker which has
+### 5. Thunderbolt Eventbus
+    Stateless enhanced queue based IOT Broker over mqtt/coap/websockets with the following features
     a. Protocol Bridge to bridge messages between MQTT COAP and WebSockets without 
-	   the need for addtional glue code
+       the need for addtional glue code
     b. Standalone Clusterable COAP,MQTT and Websocket services
-### 6. Thunderbolt maven plugin (one plugin to do build and package)
+### 6. Thunderbolt maven plugin (one plugin to build and package)
     A huge leap in plugin development in which one plugin can has the following features
     a. Compile /TestCompile
     b. Jar/TestJar/Executable/FatJar
