@@ -3,7 +3,7 @@
 A High Performance MultiProtocol Java Framework
 
 ## 1.About
-  Thunderbolt-Java is a complete Enterprise grade IOT ready framework which is designed to be lightweight, multiprotocol and database friendly with high throughput performance. 
+  Thunderbolt-Java is a complete IOT grade framework which is designed to be lightweight, multiprotocol and database friendly with high throughput and performance. 
   
   Thunderbolt-Java is designed with a philosophy aimed at reducing coding effort for programmers.
   
